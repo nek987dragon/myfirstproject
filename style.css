@@ -2,3 +2,13 @@ body{
 background-color: antiquewhite;
 color: black;
 }
+
+header{
+    background-color: blue;
+    color: azure;
+    text-align: center;
+}
+
+p{
+    color: red;
+}
